@@ -6,3 +6,5 @@ This repository contains the lectures for the *Foundations of Computing* course 
 5. Stack
 6. Queue
 7. Sortings
+8. Searching
+9. Linked List
